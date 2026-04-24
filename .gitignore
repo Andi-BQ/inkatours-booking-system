@@ -1,0 +1,22 @@
+# InkaTours Git Ignore
+# Configuración sensible
+config.php
+.env
+
+# Base de datos
+*.sql
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+error_log
+*.log
+
+# Librerías externas (si usas composer)
+# vendor/
